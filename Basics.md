@@ -1,5 +1,4 @@
 What is NodeJS
 ```
-{let x =0;}
-
+Node.js is an open-source and cross-platform JavaScript runtime environment." - Nodejs.dev
 ```
